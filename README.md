@@ -20,12 +20,13 @@ Para executar o sistema basta executar o script Python a seguir:
 - [requirements.txt](src/requirements.txt): `pip install -r requirements.txt`
 
 
-###
+### Relatórios
+    
     Os Relatórios e consultas estão com os diretórios do meu computador "TrabalhoDow" era o antigo nome do caminho que era pra ser seguido. Coloque o nome do Correto do     diretório, assim o código vai rodar corretamente. 
 
     Exemplo: //home/labdatabase/Downloads/'''TrabalhoDow'''/src/sql_consulta/relatorio_cliente_endereco_telefone.sql
 
-
+#### Inserir Tabela SERVIÇOS 
     Para inserir na tabela SERVIÇOS, você precisa primeiramente inserir na tabela ORDENSSERVICOS. SIga o vídeo demonstrativo. o link está no diretório Vídeo.
 
   
